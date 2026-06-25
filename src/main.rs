@@ -22,7 +22,7 @@ Examples:
   nite --help
 
 GitHub:
-  https://github.com/yourname/nite
+  https://github.com/zaingoodcoder/Nite.git
 "
 )]
 struct Cli {
